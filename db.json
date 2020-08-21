@@ -1,0 +1,8 @@
+{
+  "articles" : [
+     {"ArticleID": 1 , "Name": "Paracetamol", "Pieces":20},
+     {"ArticleID": 2 , "Name": "Naproxeno", "Pieces":100},
+     {"ArticleID": 3 , "Name": "Ibuprofeno", "Pieces":77},
+     {"ArticleID": 4 , "Name": "Ketorolaco", "Pieces":43}
+  ]
+}

@@ -6,8 +6,8 @@
      {"ArticleID": 4 , "Name": "Ketorolaco", "Pieces":43}
   ],
   "users" : [
-  	{"email": "developeralta@gmail.com","password": "Mynameis1"},
-  	{"email": "example@example.com","password": "12345"},
-  	{"email": "example@gmail.com","password": "2861"}
+  	{"id":1,"email": "developeralta@gmail.com","password": "Mynameis1"},
+  	{"id":1,"email": "example@example.com","password": "12345"},
+  	{"id":1,"email": "example@gmail.com","password": "2861"}
   ]
 }
